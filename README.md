@@ -1,2 +1,4 @@
 # Bank-Marketing
-This is a Neural Network implementation to predict the success of a bank telemarketing
+The purpose of this project is to implement a simple deep-learning model to analyze and predict the satisfaction level of bank customers.
+
+
